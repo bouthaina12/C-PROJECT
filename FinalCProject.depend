@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1764965774 source:c:\users\hp\desktop\testc\finalcproject\main.c
+	"temperature_controller.h"
+	"config_controller.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1764968003 c:\users\hp\desktop\testc\finalcproject\temperature_controller.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1764964638 c:\users\hp\desktop\testc\finalcproject\config_controller.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+
+1764970488 source:c:\users\hp\desktop\testc\finalcproject\temperature_controller.c
+	"temperature_controller.h"
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<termios.h>
+
+1764965013 source:c:\users\hp\desktop\testc\finalcproject\config_controller.c
+	"config_controller.h"
+	<ctype.h>
+	<time.h>
+
+1765291524 source:c:\users\hp\desktop\finalcproject\main.c
+	"temperature_controller.h"
+	"config_controller.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1765288862 c:\users\hp\desktop\finalcproject\temperature_controller.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1765284746 c:\users\hp\desktop\finalcproject\config_controller.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+
+1765290763 source:c:\users\hp\desktop\finalcproject\temperature_controller.c
+	"temperature_controller.h"
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<termios.h>
+
+1765286606 source:c:\users\hp\desktop\finalcproject\config_controller.c
+	"config_controller.h"
+	<ctype.h>
+	<time.h>
+

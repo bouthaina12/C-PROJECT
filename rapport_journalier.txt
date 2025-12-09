@@ -1,0 +1,38 @@
+RAPPORT Journaliere COMPLET - CONTROLEUR TEMPERATURE
+--------------------------------------------------------
+
+Intervalle de mesure: 1 secondes
+
+Genere le: 09/12/2025 15:51
+
+JOUR: 2025-12-09
+----------------------------------------
+nb Mesures: 196
+Température: Moy=35.4°C, Min=-19.5°C, Max=99.5°C
+Alertes: N1=6, N2=7, N3=155
+Durée alerte: 2 min 48 sec
+
+JOUR: 2025-12-05
+----------------------------------------
+nb Mesures: 3
+Température: Moy=39.0°C, Min=29.0°C, Max=46.0°C
+Alertes: N1=0, N2=0, N3=2
+Durée alerte: 0 min 2 sec
+
+JOUR: 2024-01-15
+----------------------------------------
+nb Mesures: 3
+Température: Moy=22.5°C, Min=22.5°C, Max=22.5°C
+Alertes: N1=0, N2=0, N3=0
+Durée alerte: 0 min 0 sec
+
+JOUR: 2023-01-15
+----------------------------------------
+nb Mesures: 4
+Température: Moy=35.0°C, Min=12.5°C, Max=72.5°C
+Alertes: N1=0, N2=0, N3=0
+Durée alerte: 0 min 0 sec
+
+=========================================
+Total jours analyses: 4
+Fin du rapport

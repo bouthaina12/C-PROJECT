@@ -1,0 +1,271 @@
+2023-01-15 08:00:00 - Temperature: 22.5 C - Niveau alerte: 0
+2023-01-15 08:00:00 - Temperature: 12.5 C - Niveau alerte: 0
+2023-01-15 08:00:00 - Temperature: 72.5 C - Niveau alerte: 0
+2023-01-15 08:00:00 - Temperature: 32.5 C - Niveau alerte: 0
+2024-01-15 08:00:00 - Temperature: 22.5 C - Niveau alerte: 0
+2024-01-15 08:00:00 - Temperature: 22.5 C - Niveau alerte: 0
+2024-01-15 08:00:00 - Temperature: 22.5 C - Niveau alerte: 0
+2025-12-05 21:44:33 - Temperature: 18.00°C - Niveau alerte: 3
+2025-12-05 21:44:38 - Temperature: 31.00°C - Niveau alerte: 3
+2025-12-05 21:44:43 - Temperature: 42.00°C - Niveau alerte: 3
+2025-12-05 21:44:48 - Temperature: 55.00°C - Niveau alerte: 3
+2025-12-05 21:44:53 - Temperature: 22.00°C - Niveau alerte: 3
+2025-12-05 21:48:00 - Temperature: 58.00°C - Niveau alerte: 3
+2025-12-05 21:48:05 - Temperature: 42.00°C - Niveau alerte: 3
+2025-12-05 21:48:10 - Temperature: 28.00°C - Niveau alerte: 3
+2025-12-05 21:48:15 - Temperature: 55.00°C - Niveau alerte: 3
+2025-12-05 21:48:20 - Temperature: 38.00°C - Niveau alerte: 3
+2025-12-05 21:48:25 - Temperature: 27.00°C - Niveau alerte: 3
+2025-12-05 21:48:30 - Temperature: 22.00°C - Niveau alerte: 3
+2025-12-05 21:48:35 - Temperature: 48.00°C - Niveau alerte: 3
+2025-12-05 21:48:40 - Temperature: 42.00°C - Niveau alerte: 3
+2025-12-05 21:48:45 - Temperature: 4.00°C - Niveau alerte: 1
+2025-12-05 21:48:50 - Temperature: 54.00°C - Niveau alerte: 3
+2025-12-05 21:48:55 - Temperature: 25.00°C - Niveau alerte: 3
+2025-12-05 21:53:37 - Temperature: 50.00°C - Niveau alerte: 3
+2025-12-05 21:53:42 - Temperature: 30.00°C - Niveau alerte: 3
+2025-12-05 21:53:48 - Temperature: 34.00°C - Niveau alerte: 3
+2025-12-05 21:53:53 - Temperature: 53.00°C - Niveau alerte: 3
+2025-12-05 21:53:58 - Temperature: 50.00°C - Niveau alerte: 3
+2025-12-05 21:54:39 - Temperature: 12.00°C - Niveau alerte: 1
+2025-12-05 21:54:44 - Temperature: 32.00°C - Niveau alerte: 3
+2025-12-05 21:54:49 - Temperature: 18.00°C - Niveau alerte: 3
+2025-12-05 21:54:54 - Temperature: 52.00°C - Niveau alerte: 3
+2025-12-05 21:54:59 - Temperature: 59.00°C - Niveau alerte: 3
+2025-12-05 21:55:04 - Temperature: 51.00°C - Niveau alerte: 3
+2025-12-05 22:28:44 - Temperature: 57.00°C - Niveau alerte: 3
+2025-12-05 22:28:49 - Temperature: 17.00°C - Niveau alerte: 2
+2025-12-05 22:28:55 - Temperature: 0.00°C - Niveau alerte: 1
+2025-12-05 22:29:00 - Temperature: 36.00°C - Niveau alerte: 3
+2025-12-05 22:29:05 - Temperature: 0.00°C - Niveau alerte: 1
+2025-12-05 22:29:10 - Temperature: 32.00°C - Niveau alerte: 3
+2025-12-05 22:29:15 - Temperature: 49.00°C - Niveau alerte: 3
+2025-12-05 22:29:20 - Temperature: 2.00°C - Niveau alerte: 1
+2025-12-05 22:29:25 - Temperature: 44.00°C - Niveau alerte: 3
+2025-12-05 22:29:30 - Temperature: 54.00°C - Niveau alerte: 3
+2025-12-05 22:29:35 - Temperature: 5.00°C - Niveau alerte: 0
+2025-12-05 22:30:44 - Temperature: 19.00°C - Niveau alerte: 3
+2025-12-05 22:30:49 - Temperature: 27.00°C - Niveau alerte: 3
+2025-12-05 22:30:54 - Temperature: 14.00°C - Niveau alerte: 2
+2025-12-05 22:30:59 - Temperature: 55.00°C - Niveau alerte: 3
+2025-12-05 22:31:04 - Temperature: 1.00°C - Niveau alerte: 1
+2025-12-05 22:31:09 - Temperature: 10.00°C - Niveau alerte: 1
+2025-12-05 22:31:14 - Temperature: 29.00°C - Niveau alerte: 3
+2025-12-05 22:34:55 - Temperature: 46.00°C - Niveau alerte: 3
+2025-12-05 22:35:00 - Temperature: 43.00°C - Niveau alerte: 3
+2025-12-05 22:35:05 - Temperature: 12.00°C - Niveau alerte: 1
+2025-12-05 22:35:10 - Temperature: 21.00°C - Niveau alerte: 3
+2025-12-05 22:35:15 - Temperature: 43.00°C - Niveau alerte: 3
+2025-12-05 22:35:20 - Temperature: 17.00°C - Niveau alerte: 2
+2025-12-05 22:35:25 - Temperature: 18.00°C - Niveau alerte: 3
+2025-12-05 22:35:30 - Temperature: 23.00°C - Niveau alerte: 3
+2025-12-05 22:35:36 - Temperature: 17.00°C - Niveau alerte: 2
+2025-12-05 22:35:41 - Temperature: 47.00°C - Niveau alerte: 3
+2025-12-05 22:37:47 - Temperature: 40.00°C - Niveau alerte: 2
+2025-12-05 22:37:50 - Temperature: 40.00°C - Niveau alerte: 2
+2025-12-05 22:37:53 - Temperature: 40.00°C - Niveau alerte: 2
+2025-12-05 22:37:56 - Temperature: 40.00°C - Niveau alerte: 2
+2025-12-05 22:38:00 - Temperature: 40.00°C - Niveau alerte: 2
+2025-12-05 22:38:03 - Temperature: 40.00°C - Niveau alerte: 2
+2025-12-05 22:39:33 - Temperature: 42.00°C - Niveau alerte: 3
+2025-12-05 22:39:36 - Temperature: 53.00°C - Niveau alerte: 3
+2025-12-05 22:39:40 - Temperature: 25.00°C - Niveau alerte: 0
+2025-12-05 22:41:52 - Temperature: 42.00 C - Niveau alerte: 3
+2025-12-05 22:41:55 - Temperature: 46.00 C - Niveau alerte: 3
+2025-12-05 22:41:59 - Temperature: 29.00 C - Niveau alerte: 0
+2025-12-09 14:28:11 - Temperature: 3.35 C - Niveau alerte: 3
+2025-12-09 14:28:13 - Temperature: 52.20 C - Niveau alerte: 0
+2025-12-09 14:40:32 - Temperature: 12.80 C - Niveau alerte: 1
+2025-12-09 14:40:34 - Temperature: 68.06 C - Niveau alerte: 0
+2025-12-09 14:40:36 - Temperature: 54.60 C - Niveau alerte: 0
+2025-12-09 14:40:38 - Temperature: 41.55 C - Niveau alerte: 0
+2025-12-09 14:40:40 - Temperature: 50.34 C - Niveau alerte: 0
+2025-12-09 14:40:42 - Temperature: 26.85 C - Niveau alerte: 0
+2025-12-09 14:40:44 - Temperature: 53.23 C - Niveau alerte: 0
+2025-12-09 14:40:46 - Temperature: 32.66 C - Niveau alerte: 0
+2025-12-09 14:40:48 - Temperature: 79.65 C - Niveau alerte: 0
+2025-12-09 14:40:50 - Temperature: 39.99 C - Niveau alerte: 0
+2025-12-09 14:40:52 - Temperature: -16.34 C - Niveau alerte: 3
+2025-12-09 14:40:54 - Temperature: -7.24 C - Niveau alerte: 3
+2025-12-09 14:40:56 - Temperature: 42.65 C - Niveau alerte: 0
+2025-12-09 14:40:58 - Temperature: 88.91 C - Niveau alerte: 2
+2025-12-09 14:41:00 - Temperature: 60.03 C - Niveau alerte: 0
+2025-12-09 14:41:02 - Temperature: 63.93 C - Niveau alerte: 0
+2025-12-09 14:41:04 - Temperature: 99.52 C - Niveau alerte: 3
+2025-12-09 14:41:06 - Temperature: 33.60 C - Niveau alerte: 0
+2025-12-09 14:41:08 - Temperature: -19.47 C - Niveau alerte: 3
+2025-12-09 14:41:10 - Temperature: 16.99 C - Niveau alerte: 0
+2025-12-09 14:41:12 - Temperature: 81.47 C - Niveau alerte: 1
+2025-12-09 14:41:14 - Temperature: 9.53 C - Niveau alerte: 1
+2025-12-09 14:41:16 - Temperature: 31.68 C - Niveau alerte: 0
+2025-12-09 14:41:18 - Temperature: 93.87 C - Niveau alerte: 3
+2025-12-09 14:41:20 - Temperature: 98.61 C - Niveau alerte: 3
+2025-12-09 14:41:22 - Temperature: -1.15 C - Niveau alerte: 3
+2025-12-09 14:41:24 - Temperature: -10.44 C - Niveau alerte: 3
+2025-12-09 14:41:26 - Temperature: 58.57 C - Niveau alerte: 0
+2025-12-09 14:41:28 - Temperature: 41.87 C - Niveau alerte: 0
+2025-12-09 14:41:30 - Temperature: 79.68 C - Niveau alerte: 0
+2025-12-09 14:41:32 - Temperature: 67.06 C - Niveau alerte: 0
+2025-12-09 14:41:34 - Temperature: 30.72 C - Niveau alerte: 0
+2025-12-09 14:41:36 - Temperature: 97.65 C - Niveau alerte: 3
+2025-12-09 14:41:38 - Temperature: 37.17 C - Niveau alerte: 0
+2025-12-09 14:41:40 - Temperature: 55.65 C - Niveau alerte: 0
+2025-12-09 14:41:42 - Temperature: 15.11 C - Niveau alerte: 0
+2025-12-09 14:41:44 - Temperature: 13.94 C - Niveau alerte: 1
+2025-12-09 14:41:46 - Temperature: 80.14 C - Niveau alerte: 1
+2025-12-09 14:41:48 - Temperature: 70.52 C - Niveau alerte: 0
+2025-12-09 14:41:50 - Temperature: 21.29 C - Niveau alerte: 0
+2025-12-09 14:41:52 - Temperature: 76.70 C - Niveau alerte: 0
+2025-12-09 14:41:54 - Temperature: 26.95 C - Niveau alerte: 0
+2025-12-09 14:44:20 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:21 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:22 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:23 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:24 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:25 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:26 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:27 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:28 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:29 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:30 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:31 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:32 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:33 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:34 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:35 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:36 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:37 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:38 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:39 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:40 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:41 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:42 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:43 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:44 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:45 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:46 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:47 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:48 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:49 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:50 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:51 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:52 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:53 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:54 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:55 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:56 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:57 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:58 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:44:59 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:00 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:01 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:02 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:03 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:04 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:05 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:06 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:07 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:08 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:09 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:10 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:11 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:12 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:13 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:14 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:15 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:16 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:17 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:18 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:19 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:20 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:21 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:22 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:23 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:24 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:25 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:26 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:27 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:28 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:29 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:30 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:31 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:32 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:33 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:34 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:35 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:36 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:37 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:38 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:45:40 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:01 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:02 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:04 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:05 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:06 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:07 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:09 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:10 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:11 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:12 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:14 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:15 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:16 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:17 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:19 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:20 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:22 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:23 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:24 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:25 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:27 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:28 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:29 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:30 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:32 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:33 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:34 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:35 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:37 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:38 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:39 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:40 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:42 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:43 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:46:44 - Temperature: 30.00 C - Niveau alerte: 3
+2025-12-09 14:48:59 - Temperature: 18.99 C - Niveau alerte: 2
+2025-12-09 14:49:00 - Temperature: 57.49 C - Niveau alerte: 3
+2025-12-09 14:49:01 - Temperature: -17.56 C - Niveau alerte: 3
+2025-12-09 14:49:02 - Temperature: 89.00 C - Niveau alerte: 3
+2025-12-09 14:49:04 - Temperature: 56.80 C - Niveau alerte: 3
+2025-12-09 14:49:05 - Temperature: 35.75 C - Niveau alerte: 3
+2025-12-09 14:49:07 - Temperature: 77.47 C - Niveau alerte: 3
+2025-12-09 14:49:08 - Temperature: -0.30 C - Niveau alerte: 3
+2025-12-09 14:49:10 - Temperature: 81.69 C - Niveau alerte: 3
+2025-12-09 14:49:11 - Temperature: 17.27 C - Niveau alerte: 2
+2025-12-09 14:49:12 - Temperature: 63.09 C - Niveau alerte: 3
+2025-12-09 14:49:13 - Temperature: 76.31 C - Niveau alerte: 3
+2025-12-09 14:49:15 - Temperature: 39.49 C - Niveau alerte: 3
+2025-12-09 14:49:16 - Temperature: 36.83 C - Niveau alerte: 3
+2025-12-09 14:50:52 - Temperature: 20.34 C - Niveau alerte: 2
+2025-12-09 14:50:53 - Temperature: 65.38 C - Niveau alerte: 3
+2025-12-09 14:50:54 - Temperature: 54.97 C - Niveau alerte: 3
+2025-12-09 14:50:55 - Temperature: 86.85 C - Niveau alerte: 3
+2025-12-09 14:50:57 - Temperature: 5.16 C - Niveau alerte: 1
+2025-12-09 14:50:58 - Temperature: -19.29 C - Niveau alerte: 3
+2025-12-09 14:50:59 - Temperature: 45.46 C - Niveau alerte: 3
+2025-12-09 14:51:00 - Temperature: -11.66 C - Niveau alerte: 3
+2025-12-09 14:51:02 - Temperature: 74.49 C - Niveau alerte: 3
+2025-12-09 14:51:03 - Temperature: -6.91 C - Niveau alerte: 3
+2025-12-09 14:51:05 - Temperature: 1.88 C - Niveau alerte: 2
+2025-12-09 14:51:06 - Temperature: 94.54 C - Niveau alerte: 3
+2025-12-09 14:51:56 - Temperature: 21.16 C - Niveau alerte: 2
+2025-12-09 14:51:57 - Temperature: -18.02 C - Niveau alerte: 3
+2025-12-09 14:51:58 - Temperature: 63.56 C - Niveau alerte: 3
+2025-12-09 14:51:59 - Temperature: 79.17 C - Niveau alerte: 3
+2025-12-09 14:52:01 - Temperature: 53.74 C - Niveau alerte: 3
+2025-12-09 14:52:02 - Temperature: -1.45 C - Niveau alerte: 3
+2025-12-09 14:52:39 - Temperature: 21.66 C - Niveau alerte: 2
+2025-12-09 14:52:40 - Temperature: 75.18 C - Niveau alerte: 3
+2025-12-09 14:52:41 - Temperature: 51.23 C - Niveau alerte: 3
+2025-12-09 14:52:42 - Temperature: 60.32 C - Niveau alerte: 3
+2025-12-09 14:52:44 - Temperature: 80.21 C - Niveau alerte: 3
