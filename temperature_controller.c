@@ -143,14 +143,14 @@ Stats* calculer_stats(Mesure *mesures,int intervalle_mesure) {
 // Afficher les statistiques à l'écran
 void afficher_stats(Stats *stats,int intervalle_mesure) {
     printf("\n");
-    printf("==========================================================\n");
-    printf("|                  RAPPORTS JOURNALIERS | \n");
-    printf("==========================================================\n");
+    printf("\033[36m==========================================================\033[0m\n");
+    printf("\033[36m|                  RAPPORTS JOURNALIERS                   |\033[0m \n");
+    printf("\033[36m==========================================================\033[0m\n");
     printf("Intervalle de mesure: %d secondes\n\n", intervalle_mesure);
 
-    printf("+--------------+----------+----------+----------+---------+--------------+\n");
-    printf("|     Date     |  Mesures |  Moyenne |    Min   |   Max   |  Duree Alerte|\n");
-    printf("+--------------+----------+----------+----------+---------+--------------+\n");
+    printf("+--------------+----------+----------+----------+---------+-----------------------+\n");
+    printf("|     Date     |  Mesures |  Moyenne |    Min   |   Max   |  Duree Alerte         |\n");
+    printf("+--------------+----------+----------+----------+---------+-----------------------+\n");
 
     int total_jours = 0;
     int total_alertes=0;
@@ -209,7 +209,7 @@ void afficher_stats(Stats *stats,int intervalle_mesure) {
     // Résumé
     //printf("\nRESUME:\n");
     printf("-------\n");
-    printf("Jours analyses : %d\n", total_jours);
+    printf("\033[33m Jours analyses : %d \033[0m\n", total_jours);
 
 }
 
@@ -295,8 +295,8 @@ ResumeGlobal calculer_resume_global(Stats *stats) {
     }
 
     Stats *courant = stats;
-    resume.temp_min_globale = 1000;
-    resume.temp_max_globale = -1000;
+    resume.temp_min_globale = 2000;
+    resume.temp_max_globale = -2000;
 
     while (courant) {
         resume.total_jours++;
